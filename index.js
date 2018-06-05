@@ -72,6 +72,7 @@ module.exports = {
     'import/no-extraneous-dependencies': 0,
     'import/no-duplicates': 2,
     'import/no-webpack-loader-syntax': 0,
+    'import/prefer-default-export': 0,
     indent: [
       2,
       2,
